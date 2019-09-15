@@ -14,7 +14,7 @@
    -> Your web app should now be running if there were no errors.
 
 3. Open another Terminal Window and type.  
-   'env|grep WORK'
+   `env|grep WORK`
    
    -> You'll get SPACEID and SPACEDOMAIN.
    
