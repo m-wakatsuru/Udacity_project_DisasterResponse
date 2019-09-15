@@ -10,5 +10,13 @@
 
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
+    
+   -> Your web app should now be running if there were no errors.
 
-3. Go to http://0.0.0.0:3001/
+3. Open another Terminal Window and type.
+   'env|grep WORK'
+   
+   -> You'll get SPACEID and SPACEDOMAIN.
+   
+4. Open this link.
+   https://SPACEID-3001.SPACEDOMAIN
